@@ -10,8 +10,8 @@
 ## Результат работы 
 'prompt_1 = dog is playing football, high resolution, ultra detailed' 
 
-![][./images/image_1.jpg]
+![][images/image_1.jpg]
 
 'prompt_2 = cat is watching you, ultra detailed, 8k resolution'
 
-![][./images/image_2.jpg]
+![][images/image_2.jpg]
